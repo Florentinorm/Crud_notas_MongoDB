@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect('mongodb+srv://Producto:Tino-ramirez@cluster0.4g7bl.mongodb.net/notas', {
+mongoose.connect('LINK DE MONGODB', {
         useCreateIndex: true,
         useNewUrlParser: true,
         useUnifiedTopology: true
