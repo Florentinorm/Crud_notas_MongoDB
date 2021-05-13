@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect('mongodb://localhost/customerDatabase', {
+mongoose.connect('mongodb://localhost/notas', {
         useCreateIndex: true,
         useNewUrlParser: true,
         useUnifiedTopology: true
